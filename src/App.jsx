@@ -1,15 +1,10 @@
-import Profile from "./components/Profile";
-import Statistics from "./components/Statistics";
-import Friends from "./components/Friends";
-import TransactionHistory from "./components/TransactionHistory";
+import Main from "./Main";
+
 
 function App() {
   return <>
-    <Profile />;
-    <Statistics />;
-    <Friends />;
-    <TransactionHistory />;
-  </>
+    <Main />;
+    </>
 }
 
 export default App;
