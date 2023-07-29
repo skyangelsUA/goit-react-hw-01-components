@@ -1,3 +1,6 @@
+// import user from './assets/user.json;
+
+
 const Profile = () => {
   return (
     <div class="profile">
