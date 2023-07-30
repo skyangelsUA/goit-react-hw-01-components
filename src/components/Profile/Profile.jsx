@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 
 export const Profile = ({
-  name = "User Name",
+  name,
   tag,
   location,
   avatar,
